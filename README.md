@@ -1,3 +1,3 @@
 # portugol_projects
 
-Repositório para postar meus projetos de Portugol para acompanhar minha evolução
+Repository created to put my portugol projects and to follow my evolution on Development.
